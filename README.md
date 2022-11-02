@@ -1,4 +1,9 @@
 # sd-krea2prompt
+
+SCRIPT IS NOW OUTDATED AND NO LONGER SUPPORTED
+
+New repo here: https://github.com/Vetchems/sd-lexikrea
+
 A script for Automatic1111 Stable Diffusion that pulls prompts from krea.ai based on search terms.
 
 ## How to Install
